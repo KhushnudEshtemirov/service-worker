@@ -1,0 +1,20 @@
+{
+  "name": "Khushnud Eshtemirov",
+  "short_name": "Khushnud",
+  "start_url": ".",
+  "background_color": "#ff34dd",
+  "theme_color": "#322046",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo768.png",
+      "sizes": "768x768",
+      "type": "image/png"
+    }
+  ]
+}
